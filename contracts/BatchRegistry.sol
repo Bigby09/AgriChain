@@ -1,0 +1,1 @@
+// BatchRegistry smart contract
